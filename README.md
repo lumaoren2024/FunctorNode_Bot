@@ -1,7 +1,10 @@
 # FunctorNode_Bot
 ## securitylabs.xyz项目
+
 我的RF：https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm6op0kzg0m2hpf1ck5hsljyh
+
 chrome插件下载：https://chromewebstore.google.com/detail/gahmmgacnfeohncipkjfjfbdlpbfkfhi
+
 项目方X：https://x.com/FunctorNetwork
 
 ## FunctorNode_Bot 教程
